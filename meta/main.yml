@@ -1,0 +1,19 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: prompty
+  author: Peter Bobov
+  description: Bash prompt customized with colors
+  license: GPLv3
+  min_ansible_version: 2.0
+  platforms:
+    - name: EL
+      versions:
+        - any
+    - name: Debian
+      versions:
+        - any
+    - name: Ubuntu
+      versions:
+        - any
